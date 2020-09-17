@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below are a list of my technical skills
+
+## Write thing here ##
+- Write things here
+- More things
+- More things
+
+### Even more things ###
+- Last things
+- Just wait
+- Now the last one
