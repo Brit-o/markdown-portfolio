@@ -1,6 +1,6 @@
 # Skills
 
-Below are a list of my technical skills
+_Below are a list of my technical skills_
 
 ## Write thing here ##
 - Write things here
